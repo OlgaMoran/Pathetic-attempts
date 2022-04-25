@@ -1,0 +1,15 @@
+D:\Мои документы\IT\Seminar_3\Problem_2\bin\Debug\net6.0\Problem_2.exe
+D:\Мои документы\IT\Seminar_3\Problem_2\bin\Debug\net6.0\Problem_2.deps.json
+D:\Мои документы\IT\Seminar_3\Problem_2\bin\Debug\net6.0\Problem_2.runtimeconfig.json
+D:\Мои документы\IT\Seminar_3\Problem_2\bin\Debug\net6.0\Problem_2.dll
+D:\Мои документы\IT\Seminar_3\Problem_2\bin\Debug\net6.0\Problem_2.pdb
+D:\Мои документы\IT\Seminar_3\Problem_2\obj\Debug\net6.0\Problem_2.csproj.AssemblyReference.cache
+D:\Мои документы\IT\Seminar_3\Problem_2\obj\Debug\net6.0\Problem_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Мои документы\IT\Seminar_3\Problem_2\obj\Debug\net6.0\Problem_2.AssemblyInfoInputs.cache
+D:\Мои документы\IT\Seminar_3\Problem_2\obj\Debug\net6.0\Problem_2.AssemblyInfo.cs
+D:\Мои документы\IT\Seminar_3\Problem_2\obj\Debug\net6.0\Problem_2.csproj.CoreCompileInputs.cache
+D:\Мои документы\IT\Seminar_3\Problem_2\obj\Debug\net6.0\Problem_2.dll
+D:\Мои документы\IT\Seminar_3\Problem_2\obj\Debug\net6.0\refint\Problem_2.dll
+D:\Мои документы\IT\Seminar_3\Problem_2\obj\Debug\net6.0\Problem_2.pdb
+D:\Мои документы\IT\Seminar_3\Problem_2\obj\Debug\net6.0\Problem_2.genruntimeconfig.cache
+D:\Мои документы\IT\Seminar_3\Problem_2\obj\Debug\net6.0\ref\Problem_2.dll
